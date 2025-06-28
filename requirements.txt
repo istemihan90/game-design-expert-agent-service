@@ -1,0 +1,6 @@
+Flask
+openai # Görevleri bölmek ve agentları çağırmak için LLM kullanabiliriz
+python-dotenv
+requests # Diğer servislere HTTP çağrıları yapmak için
+gunicorn
+Flask-Cors # Frontend entegrasyonu için (ileride gerekebilir)
